@@ -8,5 +8,5 @@ Skin stain quantification
 - tkinter
 - VS-2019
 - result:
-<p align="center"><a href="https://dingy-yong.github.io"><img width="80%" alt="Hello, I'm DingYong!" src="./result0.jpg" /></a></p>
-<p align="center"><a href="https://dingy-yong.github.io"><img width="80%" alt="Hello, I'm DingYong!" src="./result1.jpg" /></a></p>
+<p align="center"><a href="https://dingy-yong.github.io"><img width="80%" alt="Hello, I'm DingYong!" src="./result0.png" /></a></p>
+<p align="center"><a href="https://dingy-yong.github.io"><img width="80%" alt="Hello, I'm DingYong!" src="./result1.png" /></a></p>
