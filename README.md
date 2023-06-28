@@ -3,7 +3,7 @@ Skin stain quantification
 从资源管理器中选择图像
 划定计算区域
 计算区域像素的RGB平均值
-
+-使用PyQt和Tk分别实现
 - PyQt
 - tkinter
 - VS-2019
